@@ -1,7 +1,7 @@
 {
   "name": "stylus-build-launcher",
   "main": "./lib/stylus-build-launcher",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Opens a new Bash shell and runs Stylus in watch mode ",
   "repository": "https://github.com/spiralx/stylus-build-launcher",
   "license": "MIT",
