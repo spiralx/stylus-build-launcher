@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Launch Stylus build",
+        "command": "stylus-build-launcher:launch"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Stylus Build Launcher",
+          "submenu": [
+            {
+              "label": "Launch Stylus build",
+              "command": "stylus-build-launcher:launch"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
